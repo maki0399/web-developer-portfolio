@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'PT Serif', serif;
+}
+
+.gradient-background {
+  background: linear-gradient(to bottom, #002855, #001F3D); /* Dark blue gradient */
+  color: #fff; /* Set text color to be visible against the dark background */
+  padding: 20px; 
+}
